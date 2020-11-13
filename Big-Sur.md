@@ -8,6 +8,12 @@
   ./fetch-macOS.py
   ```
 
+- Install dependencies for `xar`. (The following is for Debian/Ubuntu, different distros name packages differently.)
+
+  ```
+  apt install autoconf
+  ```
+
 - Get `xar` software.
 
   ```
